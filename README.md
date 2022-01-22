@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Musammil Pullat</h1>
-<h3 align="center">A passionate Full Stack/Mobile/Embedded developer from India</h3>
+<h3 align="center">A Passionate Full Stack/Mobile/Embedded developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musu30&label=Profile%20views&color=0e75b6&style=flat" alt="musu30" /> </p>
 
